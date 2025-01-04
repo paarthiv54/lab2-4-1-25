@@ -5,7 +5,7 @@ hello = () =>{
 }
 console.log(hello());
 
-//arrow func with parameter
+//arrow func with  parameter
 
 let hello1 = "";
 hello1=(val)=>"Hello" + val;
